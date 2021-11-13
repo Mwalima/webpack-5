@@ -1,3 +1,5 @@
+import "./styles/index.scss";
+
 const elvenShieldRecipe = {
     leatherStripes: 10,
     metalRims: 10,
